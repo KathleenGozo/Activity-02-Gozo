@@ -1,4 +1,3 @@
-from io import BufferedRandom
 import random
 print ("\n   P o k e m o n  C a l c u l a t o r")
 print ("\n          Charizard V.S. Feraligatr")
